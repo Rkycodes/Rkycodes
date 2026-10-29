@@ -52,30 +52,6 @@ An in-progress Artix-7 FPGA stereo audio processing system targeting real-time d
 
 ---
 
-## Relevant Coursework
-
-### Completed Coursework
-- Digital Logic Design
-- Electronics
-- Signals and Systems
-- Solid-State Devices
-- Computer Systems Organization I
-- Machine Learning
-
-### Fall 2026 — Current
-- AI Hardware
-- Hardware-Software Co-Design for Machine Learning
-- Embedded Computer Systems
-- Microelectronics
-
-### Spring 2027 — Planned
-- Computer Architecture
-- Very Large Scale Integration (VLSI)
-- Computer Systems Organization II
-- Continued undergraduate research in computer architecture and low-power VLSI
-
----
-
 ## Technical Interests & Current Exploration
 
 - **Computer Architecture:** Processor microarchitecture, pipelining, memory hierarchies, and cache design.

@@ -73,4 +73,4 @@ Whether you'd like to discuss a project, share technical insights, collaborate o
 
 **Reach out:**
 - **Email:** [Email Me](mailto:robelyaee1@gmail.com)
-- **LinkedIn:** [Connect with Me](www.linkedin.com/in/robel-yaee)
+- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/robel-yaee/)
